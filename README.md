@@ -1,3 +1,8 @@
+
+
+![Uploading 1.png…]()
+
+ 
  # 💼 *Bakre Ololade*  
 ### Data Analyst | Power BI | SQL | Python | Excel  
 
