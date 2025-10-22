@@ -28,10 +28,11 @@ Over time, I’ve honed my craft across tools like *Power BI, **Excel, **SQL, an
 
 | 💡 Project | 📝 Description | ⚙ Tools |
 |-------------|----------------|----------|
-| [Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard) | Designed an interactive Power BI dashboard to visualize and monitor monthly sales trends across regions | Power BI, Excel |
-| [Customer Churn Analysis](https://github.com/yourusername/customer-churn) | Built a Python model that predicts customer churn and identifies high-risk segments | Python (Pandas, NumPy, Matplotlib) |
-| [SQL Data Exploration](https://github.com/yourusername/sql-analysis) | Created SQL queries to extract KPIs and detect performance bottlenecks | MySQL, PostgreSQL |
-| [HR Analytics Dashboard](https://github.com/yourusername/hr-analytics) | Analyzed employee attrition data and visualized trends to support HR retention strategy | Power BI, DAX, Excel |
+| [Marital Status Dashboard](https://github.com/yBakreOlolade/Marital-dashboard) | Explore how marital status affects workplace performance, gender representation, and job type distribution for better HR strategies  | Power BI, Excel |
+| [Car Appraisal Analysis](https://github.com/BakreOlolade/carappraisalanalysis) |Provides a detailed analysis of car market trends using data on pricing, mileage, and regional preferences.  | Python (Pandas, NumPy, Matplotlib) |
+| [SQL Data Exploration](https://github.com/BakreOlolade/sql-analysis) | Created SQL queries to extract KPIs and detect performance bottlenecks | MySQL, PostgreSQL |
+| [Airline Performance $ Flight Operational Analysis](https://github.com/BakreOlolade/airlineperformance$flightoperationalanalysis) | Examines key Aviation metrics such as bookings, revenue, and on time performance to improve safety and efficiency | Power BI, DAX, Excel |
+| [comprehensive Financial Analysis](https://github.com/BakreOlolade/comprehensivefinancial-analysis) | Delivers a financial performance dashboard that evaluates an orgsnization's metrics for strategic decision-msking | Power BI, DAX, Excel |
 
 ---
 
@@ -49,9 +50,9 @@ I’m passionate about not just analyzing numbers, but bringing meaning to them 
 ---
 
 ## 📫 *Let’s Connect*
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 💼 [LinkedIn](https://linkedin.com/in/BakreOlolade)  
 - 💻 [GitHub](https://github.com/BakreOlolade)  
-- ✉ Email: your@email.com  
+- ✉ Email: bakreololade1st@gmail.com  
 
 ---
 
@@ -59,7 +60,7 @@ I’m passionate about not just analyzing numbers, but bringing meaning to them 
 
 ---
 
-## 🌟 *Bonus Enhancements*
+## 🌟 🔍 Browse through my projects below — every analysis represents a blend of curiosity, creativity, and analytical depth.
 
 *Skill Badges:*
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
