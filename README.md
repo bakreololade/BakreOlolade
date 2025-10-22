@@ -6,7 +6,6 @@
  # 💼 *Bakre Ololade*  
 ### Data Analyst | Power BI | SQL | Python | Excel  
 
-![Header Banner](banner.png)
 
 ---
 
