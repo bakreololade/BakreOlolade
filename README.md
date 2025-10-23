@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bakreololade/BakreOlolade/main/assets/linkedin-bg.png" alt="White Minimalist LinkedIn Background" width="800" />
+
 
 
 
